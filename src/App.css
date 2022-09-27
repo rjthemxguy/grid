@@ -1,5 +1,16 @@
 .App {
   text-align: center;
+  margin-right: auto;
+  margin-left: auto;
+  height: 600px;
+}
+
+.D {
+  color:navy;
+}
+
+.R {
+  color:red;
 }
 
 .App-logo {
